@@ -8,6 +8,7 @@ An interactive visualization tool for exploring course prerequisites for **Colum
 
 GradCU is a modern, interactive tool designed to help Columbia students visualize and understand course prerequisites across the CS curriculum.
 Built with Next.js and TypeScript, it provides a clean, intuitive interface for exploring course relationships.
+This version builds on prior visualization ideas @VineethSendilraj while being redesigned entirely for Columbia.
 
 ## Features
 
@@ -50,10 +51,6 @@ Each course is represented as a node with:
 3. Explore course prerequisites and relationships
 4. Use filters to focus on specific areas
 5. Switch between light/dark mode for readability
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
