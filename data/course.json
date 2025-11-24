@@ -1,0 +1,918 @@
+{
+  "courses": [
+    {
+      "id": "MATH UN1101",
+      "name": "Calculus I",
+      "short_name": "Calc I",
+      "x": "0",
+      "y": "6",
+      "threads": ["math"]
+    },
+    {
+      "id": "MATH UN1102",
+      "name": "Calculus II",
+      "short_name": "Calc II",
+      "x": "4",
+      "y": "6",
+      "threads": ["math"]
+    },
+    {
+      "id": "APMA E2000",
+      "name": "Multivariable Calc for Eng & App Sci",
+      "short_name": "Multi",
+      "x": "8",
+      "y": "6",
+      "threads": ["math"]
+    },
+
+    {
+      "id": "MATH UN2020",
+      "name": "Honors Linear Algebra",
+      "short_name": "MATH 2020",
+      "x": "12",
+      "y": "1",
+      "threads": ["math"]
+    },
+    {
+      "id": "COMS W3251",
+      "name": "Computational Linear Algebra",
+      "short_name": "W3251",
+      "x": "12",
+      "y": "2",
+      "threads": ["math"]
+    },
+    {
+      "id": "APMA E3101",
+      "name": "Applied Math I: Linear Algebra",
+      "short_name": "APMA 3101",
+      "x": "12",
+      "y": "3",
+      "threads": ["math"]
+    },
+    {
+      "id": "APMA E2101",
+      "name": "Intro to Applied Mathematics",
+      "short_name": "APMA 2101",
+      "x": "12",
+      "y": "4",
+      "threads": ["math"]
+    },
+    {
+      "id": "MATH UN2010",
+      "name": "Linear Algebra",
+      "short_name": "MATH 2010",
+      "x": "12",
+      "y": "5",
+      "threads": ["math"]
+    },
+    {
+      "id": "MATH UN2015",
+      "name": "Linear Algebra and Probability",
+      "short_name": "MATH 2015",
+      "x": "12",
+      "y": "6",
+      "threads": ["prob-stat"]
+    },
+
+    {
+      "id": "PHYS UN1401",
+      "name": "INTRO TO MECHANICS & THERMO",
+      "short_name": "PHYS 1401",
+      "x": "0",
+      "y": "1",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN1402",
+      "name": "INTRO ELEC/MAGNETSM & OPTCS",
+      "short_name": "PHYS 1402",
+      "x": "4",
+      "y": "1",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN1601",
+      "name": "PHYSICS I: MECHANICS/RELATIVITY",
+      "short_name": "PHYS 1601",
+      "x": "0",
+      "y": "0",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN1602",
+      "name": "PHYSICS II: THERMO, ELEC & MAG",
+      "short_name": "PHYS 1602",
+      "x": "4",
+      "y": "0",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN2801",
+      "name": "ACCELERATED PHYSICS I",
+      "short_name": "PHYS 2801",
+      "x": "0",
+      "y": "2",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN2802",
+      "name": "ACCELERATED PHYSICS II",
+      "short_name": "PHYS 2802",
+      "x": "4",
+      "y": "2",
+      "threads": ["science"]
+    },
+
+    {
+      "id": "CHEM UN1403",
+      "name": "GENERAL CHEMISTRY I-LECTURES",
+      "short_name": "CHEM 1403",
+      "x": "0",
+      "y": "3",
+      "threads": ["science"]
+    },
+    {
+      "id": "EEEB UN2001",
+      "name": "ENVIRONMENTAL BIOLOGY I",
+      "short_name": "EEEB 2001",
+      "x": "0",
+      "y": "4",
+      "threads": ["science"]
+    },
+    {
+      "id": "CHEM UN1500",
+      "name": "GENERAL CHEMISTRY LABORATORY",
+      "short_name": "CHEM Lab",
+      "x": "8",
+      "y": "2",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN3081",
+      "name": "INTERMEDIATE LABORATORY WORK",
+      "short_name": "PHYS 3081 Lab",
+      "x": "8",
+      "y": "1",
+      "threads": ["science"]
+    },
+    {
+      "id": "PHYS UN1494",
+      "name": "INTRO TO EXPERIMENTAL PHYS-LAB",
+      "short_name": "PHYS 1494 Lab",
+      "x": "8",
+      "y": "0",
+      "threads": ["science"]
+    },
+    {
+      "id": "CHEM UN1497",
+      "name": "INTENSIVE GENERAL CHEMISTRY-LAB",
+      "short_name": "Intensive Chem Lab",
+      "x": "8",
+      "y": "3",
+      "threads": ["science"]
+    },
+    {
+      "id": "CHEM UN3085",
+      "name": "PHYSICAL-ANALYTICAL LABORATORY I",
+      "short_name": "CHEM 3085 Lab",
+      "x": "8",
+      "y": "4",
+      "threads": ["science"]
+    },
+    {
+      "id": "UW CC1010",
+      "name": "University Writing",
+      "short_name": "UW",
+      "x": "0",
+      "y": "13",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "ECON UN1105",
+      "name": "Principles of Economics",
+      "short_name": "Econ 1105",
+      "x": "0",
+      "y": "19",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "CORE HUM 1",
+      "name": "Core Humanities / Global Core I",
+      "short_name": "Core Hum I",
+      "x": "0",
+      "y": "21",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "CORE HUM 2",
+      "name": "Core Humanities / Global Core II",
+      "short_name": "Core Hum II",
+      "x": "2",
+      "y": "21",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "NONTECH ELEC 1",
+      "name": "Nontechnical Elective 1 (3000+ level)",
+      "short_name": "Nontech 1 (3000+)",
+      "x": "0",
+      "y": "17",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "NONTECH ELEC 2",
+      "name": "Nontechnical Elective 2 (3000+ level)",
+      "short_name": "Nontech 2 (3000+)",
+      "x": "2",
+      "y": "17",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "NONTECH ELEC 3",
+      "name": "Nontechnical Elective 3 (3000+ level)",
+      "short_name": "Nontech 3 (3000+)",
+      "x": "4",
+      "y": "17",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "PE UN1001",
+      "name": "Physical Education I",
+      "short_name": "PE I",
+      "x": "0",
+      "y": "11",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "PE UN1002",
+      "name": "Physical Education II",
+      "short_name": "PE II",
+      "x": "4",
+      "y": "11",
+      "threads": ["seas-core"]
+    },
+    {
+      "id": "ENGI E1102",
+      "name": "The Art of Engineering",
+      "short_name": "Art of Eng",
+      "x": "0",
+      "y": "15",
+      "threads": ["seas-core"]
+    },
+
+    {
+      "id": "ENGI E1006",
+      "name": "Intro to Computing for Eng/App Sci",
+      "short_name": "ENGI E1006",
+      "x": "0",
+      "y": "23",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W1004",
+      "name": "Intro to Computer Science",
+      "short_name": "Intro CS",
+      "x": "0",
+      "y": "8",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W1007",
+      "name": "Honors Intro to Computer Science",
+      "short_name": "COMS 1007",
+      "x": "0",
+      "y": "9",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W3137",
+      "name": "Honors Data Structures # Algol",
+      "short_name": "Honors DS",
+      "x": "8",
+      "y": "7",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W3134",
+      "name": "Data Structures in Java",
+      "short_name": "Data Structs",
+      "x": "8",
+      "y": "8",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W3203",
+      "name": "Discrete Mathematics",
+      "short_name": "Discrete",
+      "x": "8",
+      "y": "9",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W3157",
+      "name": "Advanced Programming",
+      "short_name": "Adv Prog",
+      "x": "12",
+      "y": "8",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "CSEE W3827",
+      "name": "Fundamentals of Computer Systems",
+      "short_name": "Systems",
+      "x": "12",
+      "y": "8",
+      "threads": ["cs-intro-core"]
+    },
+    {
+      "id": "COMS W3261",
+      "name": "Computer Science Theory",
+      "short_name": "CS Theory",
+      "x": "12",
+      "y": "9",
+      "threads": ["cs-intro-core"]
+    },
+
+    {
+      "id": "IEOR E3658",
+      "name": "Probability for Engineers",
+      "short_name": "IEOR 3658",
+      "x": "12",
+      "y": "13",
+      "threads": ["prob-stat"]
+    },
+    {
+      "id": "STAT UN1201",
+      "name": "Calculus-Based Intro to Statistics",
+      "short_name": "STAT 1201",
+      "x": "12",
+      "y": "11",
+      "threads": ["prob-stat"]
+    },
+    {
+      "id": "STAT GU4001",
+      "name": "Intro to Probability & Statistics",
+      "short_name": "STAT 4001",
+      "x": "12",
+      "y": "12",
+      "threads": ["prob-stat"]
+    },
+    {
+      "id": "STAT GU4203",
+      "name": "Probability (GU4203)",
+      "short_name": "STAT 4203",
+      "x": "12",
+      "y": "13",
+      "threads": ["prob-stat"]
+    },
+
+    {
+      "id": "|LA",
+      "name": "OR",
+      "short_name": "",
+      "x": "13",
+      "y": "4",
+      "threads": ["math"]
+    },
+    {
+      "id": "|CHEMBIO",
+      "name": "OR",
+      "short_name": "",
+      "x": "4",
+      "y": "3",
+      "threads": ["science"]
+    },
+    {
+      "id": "|LAB",
+      "name": "OR",
+      "short_name": "",
+      "x": "9",
+      "y": "2",
+      "threads": ["science"]
+    },
+    {
+      "id": "|PHYS",
+      "name": "OR",
+      "short_name": "",
+      "x": "6",
+      "y": "1",
+      "threads": ["science"]
+    },
+    {
+      "id": "|PROB",
+      "name": "OR",
+      "short_name": "",
+      "x": "13",
+      "y": "12",
+      "threads": ["prob-stat"]
+    },
+    {
+      "id": "|DS",
+      "name": "OR",
+      "short_name": "",
+      "x": "9",
+      "y": "7",
+      "threads": ["cs-intro-core"]
+    },
+
+    {
+      "id": "COMS",
+      "name": "OR",
+      "short_name": "",
+      "x": "4",
+      "y": "8",
+      "threads": ["cs-intro-core"]
+    },
+
+    {
+      "id": "COMS W4111",
+      "name": "Introduction to Databases",
+      "short_name": "DBs",
+      "x": "16",
+      "y": "2",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4113",
+      "name": "Distributed Systems Fundamentals",
+      "short_name": "Distrib Sys",
+      "x": "16",
+      "y": "3",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4115",
+      "name": "Programming Languages and Translators",
+      "short_name": "PLT",
+      "x": "16",
+      "y": "4",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4118",
+      "name": "Operating Systems",
+      "short_name": "OS",
+      "x": "16",
+      "y": "5",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "CSEE W4119",
+      "name": "Computer Networks",
+      "short_name": "Networks",
+      "x": "16",
+      "y": "6",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4152",
+      "name": "Engineering Software-as-a-Service",
+      "short_name": "SaaS",
+      "x": "16",
+      "y": "7",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4156",
+      "name": "Advanced Software Engineering",
+      "short_name": "Adv SWE",
+      "x": "16",
+      "y": "8",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4160",
+      "name": "Computer Graphics",
+      "short_name": "Graphics",
+      "x": "16",
+      "y": "9",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4167",
+      "name": "Computer Animation",
+      "short_name": "Animation",
+      "x": "16",
+      "y": "10",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4170",
+      "name": "User Interface Design",
+      "short_name": "UI Design",
+      "x": "16",
+      "y": "11",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4181",
+      "name": "Security I",
+      "short_name": "Security I",
+      "x": "16",
+      "y": "12",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "CSOR W4231",
+      "name": "Analysis of Algorithms I",
+      "short_name": "Algorithms",
+      "x": "16",
+      "y": "13",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4236",
+      "name": "Intro to Computational Complexity",
+      "short_name": "Complexity",
+      "x": "16",
+      "y": "14",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4701",
+      "name": "Artificial Intelligence",
+      "short_name": "AI",
+      "x": "16",
+      "y": "15",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4705",
+      "name": "Natural Language Processing",
+      "short_name": "NLP",
+      "x": "16",
+      "y": "16",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4731",
+      "name": "Computer Vision",
+      "short_name": "Vision",
+      "x": "16",
+      "y": "17",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4733",
+      "name": "Computational Aspects of Robotics",
+      "short_name": "Robotics",
+      "x": "16",
+      "y": "18",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "CBMF W4761",
+      "name": "Computational Genomics",
+      "short_name": "Genomics",
+      "x": "16",
+      "y": "19",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "COMS W4771",
+      "name": "Machine Learning",
+      "short_name": "ML",
+      "x": "16",
+      "y": "20",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "CSEE W4824",
+      "name": "Computer Architecture",
+      "short_name": "Arch",
+      "x": "16",
+      "y": "21",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "CSEE W4868",
+      "name": "System-on-Chip Platforms",
+      "short_name": "SoC Platforms",
+      "x": "16",
+      "y": "22",
+      "threads": ["cs-area-foundation"]
+    },
+
+    {
+      "id": "|AREA",
+      "name": "OR",
+      "short_name": "",
+      "x": "18",
+      "y": "11",
+      "threads": ["cs-area-foundation"]
+    },
+    {
+      "id": "FOUR REQUIRED",
+      "name": "Area Foundation Courses",
+      "short_name": "Area Found. (4)",
+      "x": "18.75",
+      "y": "11",
+      "threads": ["cs-area-foundation"]
+    },
+
+    {
+      "id": "CS ELECTIVE 1",
+      "name": "3000+ CS Elective 1",
+      "short_name": "CS Elective (3000+)",
+      "x": "12",
+      "y": "15",
+      "threads": ["cs-elective"]
+    },
+    {
+      "id": "CS ELECTIVE 2",
+      "name": "3000+ CS Elective 2",
+      "short_name": "CS Elective (3000+)",
+      "x": "12",
+      "y": "16",
+      "threads": ["cs-elective"]
+    },
+    {
+      "id": "CS ELECTIVE 3",
+      "name": "3000+ CS Elective 3",
+      "short_name": "CS Elective (3000+)",
+      "x": "12",
+      "y": "17",
+      "threads": ["cs-elective"]
+    },
+    {
+      "id": "CS ELECTIVE 4",
+      "name": "3000+ CS Elective 4",
+      "short_name": "CS Elective (3000+)",
+      "x": "12",
+      "y": "18",
+      "threads": ["cs-elective"]
+    },
+
+    {
+      "id": "GTE 1",
+      "name": "3000+ General Technical Elective 1",
+      "short_name": "GTE 1 (3000+)",
+      "x": "8",
+      "y": "11",
+      "threads": ["tech-elective"]
+    },
+    {
+      "id": "GTE 2",
+      "name": "3000+ General Technical Elective 2",
+      "short_name": "GTE 2 (3000+)",
+      "x": "8",
+      "y": "12",
+      "threads": ["tech-elective"]
+    },
+    {
+      "id": "GTE 3",
+      "name": "3000+ General Technical Elective 3",
+      "short_name": "GTE 3 (3000+)",
+      "x": "8",
+      "y": "13",
+      "threads": ["tech-elective"]
+    },
+    {
+      "id": "GTE 4",
+      "name": "3000+ General Technical Elective 4",
+      "short_name": "GTE 4 (3000+)",
+      "x": "8",
+      "y": "14",
+      "threads": ["tech-elective"]
+    }
+  ],
+
+  "prereqs": [
+    { "from": "MATH UN1101", "to": "MATH UN1102" },
+    { "from": "MATH UN1102", "to": "APMA E2000" },
+
+    { "from": "APMA E2000", "to": "|LA" },
+    { "from": "|LA", "to": "MATH UN2020" },
+    { "from": "|LA", "to": "COMS W3251" },
+    { "from": "|LA", "to": "APMA E3101" },
+    { "from": "|LA", "to": "APMA E2101" },
+    { "from": "|LA", "to": "MATH UN2010" },
+    { "from": "|LA", "to": "MATH UN2015" },
+
+    { "from": "PHYS UN1401", "to": "PHYS UN1402" },
+    { "from": "PHYS UN1601", "to": "PHYS UN1602" },
+    { "from": "PHYS UN2801", "to": "PHYS UN2802" },
+
+    { "from": "PHYS UN1402", "to": "|PHYS" },
+    { "from": "PHYS UN1602", "to": "|PHYS" },
+    { "from": "PHYS UN2802", "to": "|PHYS" },
+
+    { "from": "CHEM UN1403", "to": "|CHEMBIO" },
+    { "from": "EEEB UN2001", "to": "|CHEMBIO" },
+
+    { "from": "|PHYS", "to": "|LAB" },
+    { "from": "|CHEMBIO", "to": "|LAB" },
+
+    { "from": "|LAB", "to": "PHYS UN1494" },
+    { "from": "|LAB", "to": "PHYS UN3081" },
+    { "from": "|LAB", "to": "CHEM UN1500" },
+    { "from": "|LAB", "to": "CHEM UN1497" },
+    { "from": "|LAB", "to": "CHEM UN3085" },
+
+    { "from": "COMS W1004", "to": "COMS" },
+    { "from": "COMS W1007", "to": "COMS" },
+    { "from": "COMS", "to": "COMS W3203" },
+    { "from": "COMS", "to": "COMS W3134" },
+    { "from": "COMS", "to": "COMS W3137" },
+
+    { "from": "COMS W3134", "to": "|DS" },
+    { "from": "COMS W3137", "to": "|DS" },
+
+    { "from": "|DS", "to": "COMS W3157" },
+    { "from": "|DS", "to": "CSEE W3827" },
+
+    { "from": "COMS W3157", "to": "COMS W3261" },
+    { "from": "COMS W3203", "to": "COMS W3261" },
+
+    { "from": "IEOR E3658", "to": "|PROB" },
+    { "from": "STAT UN1201", "to": "|PROB" },
+    { "from": "STAT GU4001", "to": "|PROB" },
+    { "from": "STAT GU4203", "to": "|PROB" },
+    { "from": "MATH UN2015", "to": "|PROB" },
+
+    { "from": "|DS", "to": "COMS W4111" },
+
+    { "from": "|DS", "to": "COMS W4118" },
+    { "from": "COMS W3157", "to": "COMS W4118" },
+    { "from": "CSEE W3827", "to": "COMS W4118" },
+
+    { "from": "|DS", "to": "CSOR W4231" },
+    { "from": "COMS W3203", "to": "CSOR W4231" },
+
+    { "from": "COMS W3261", "to": "COMS W4236" },
+
+    { "from": "|DS", "to": "COMS W4701" },
+    { "from": "|PROB", "to": "COMS W4701" },
+
+    { "from": "|DS", "to": "COMS W4705" },
+
+    { "from": "|DS", "to": "COMS W4771" },
+    { "from": "COMS W3203", "to": "COMS W4771" },
+    { "from": "APMA E2000", "to": "COMS W4771" },
+    { "from": "|LA", "to": "COMS W4771" },
+    { "from": "|PROB", "to": "COMS W4771" },
+
+    { "from": "CSEE W3827", "to": "CSEE W4824" },
+    { "from": "COMS W3157", "to": "CSEE W4868" },
+    { "from": "CSEE W3827", "to": "CSEE W4868" },
+
+    { "from": "|DS", "to": "COMS W4731" },
+    { "from": "COMS W3203", "to": "COMS W4731" },
+    { "from": "|DS", "to": "COMS W4733" },
+    { "from": "|LA", "to": "COMS W4733" },
+    { "from": "|PROB", "to": "COMS W4733" },
+    { "from": "|DS", "to": "CBMF W4761" },
+    { "from": "|PROB", "to": "CBMF W4761" },
+
+    { "from": "COMS W4701", "to": "COMS W4705" },
+    { "from": "COMS W4701", "to": "COMS W4731" },
+    { "from": "COMS W4701", "to": "COMS W4771" },
+
+    { "from": "|DS", "to": "COMS W4170" },
+
+    { "from": "COMS W4111", "to": "|AREA" },
+    { "from": "COMS W4113", "to": "|AREA" },
+    { "from": "COMS W4115", "to": "|AREA" },
+    { "from": "COMS W4118", "to": "|AREA" },
+    { "from": "CSEE W4119", "to": "|AREA" },
+    { "from": "COMS W4152", "to": "|AREA" },
+    { "from": "COMS W4156", "to": "|AREA" },
+    { "from": "COMS W4160", "to": "|AREA" },
+    { "from": "COMS W4167", "to": "|AREA" },
+    { "from": "COMS W4170", "to": "|AREA" },
+    { "from": "COMS W4181", "to": "|AREA" },
+    { "from": "CSOR W4231", "to": "|AREA" },
+    { "from": "COMS W4236", "to": "|AREA" },
+    { "from": "COMS W4701", "to": "|AREA" },
+    { "from": "COMS W4705", "to": "|AREA" },
+    { "from": "COMS W4731", "to": "|AREA" },
+    { "from": "COMS W4733", "to": "|AREA" },
+    { "from": "CBMF W4761", "to": "|AREA" },
+    { "from": "COMS W4771", "to": "|AREA" },
+    { "from": "CSEE W4824", "to": "|AREA" },
+    { "from": "CSEE W4868", "to": "|AREA" },
+
+    { "from": "|AREA", "to": "FOUR REQUIRED" },
+
+    { "from": "PE UN1001", "to": "PE UN1002" },
+    { "from": "NONTECH ELEC 1", "to": "NONTECH ELEC 2" },
+    { "from": "NONTECH ELEC 2", "to": "NONTECH ELEC 3" },
+    { "from": "CORE HUM 1", "to": "CORE HUM 2" }
+  ],
+
+  "threads": [
+  {
+    "formalName": "Math",
+    "name": "math",
+    "light": {
+      "bg": "#60a5fa",
+      "text": "#1e3a8a",
+      "textSecondary": "#1d4ed8"
+    },
+    "dark": {
+      "bg": "#1e3a8a",
+      "text": "#60a5fa",
+      "textSecondary": "#93c5fd"
+    }
+  },
+  {
+    "formalName": "Science",
+    "name": "science",
+    "light": {
+      "bg": "#22c55e",
+      "text": "#064e3b",
+      "textSecondary": "#15803d"
+    },
+    "dark": {
+      "bg": "#064e3b",
+      "text": "#22c55e",
+      "textSecondary": "#bbf7d0"
+    }
+  },
+  {
+    "formalName": "SEAS Core",
+    "name": "seas-core",
+    "light": {
+      "bg": "#fbbf24",
+      "text": "#78350f",
+      "textSecondary": "#92400e"
+    },
+    "dark": {
+      "bg": "#78350f",
+      "text": "#fbbf24",
+      "textSecondary": "#fcd34d"
+    }
+  },
+  {
+    "formalName": "CS Intro/Core",
+    "name": "cs-intro-core",
+    "light": {
+      "bg": "#0ea5e9",
+      "text": "#0f172a",
+      "textSecondary": "#0369a1"
+    },
+    "dark": {
+      "bg": "#0f172a",
+      "text": "#0ea5e9",
+      "textSecondary": "#7dd3fc"
+    }
+  },
+  {
+    "formalName": "Prob & Stats",
+    "name": "prob-stat",
+    "light": {
+      "bg": "#fb923c",
+      "text": "#7c2d12",
+      "textSecondary": "#9a3412"
+    },
+    "dark": {
+      "bg": "#7c2d12",
+      "text": "#fb923c",
+      "textSecondary": "#fdba74"
+    }
+  },
+  {
+    "formalName": "CS Area Foundation",
+    "name": "cs-area-foundation",
+    "light": {
+      "bg": "#a855f7",
+      "text": "#3b0764",
+      "textSecondary": "#6b21a8"
+    },
+    "dark": {
+      "bg": "#3b0764",
+      "text": "#a855f7",
+      "textSecondary": "#c4b5fd"
+    }
+  },
+  {
+    "formalName": "CS Elective",
+    "name": "cs-elective",
+    "light": {
+      "bg": "#ec4899",
+      "text": "#831843",
+      "textSecondary": "#be185d"
+    },
+    "dark": {
+      "bg": "#831843",
+      "text": "#ec4899",
+      "textSecondary": "#f9a8d4"
+    }
+  },
+  {
+    "formalName": "Tech Elective",
+    "name": "tech-elective",
+    "light": {
+      "bg": "#64748b",
+      "text": "#020617",
+      "textSecondary": "#0f172a"
+    },
+    "dark": {
+      "bg": "#020617",
+      "text": "#e2e8f0",
+      "textSecondary": "#94a3b8"
+    }
+  }
+]
+
+}
