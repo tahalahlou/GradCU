@@ -31,7 +31,7 @@ const OnboardingModal = ({ darkMode, onClose }: OnboardingModalProps) => {
         <h2 className="text-2xl font-bold mb-4">Welcome to GradCU - CS</h2>
         <div className="space-y-4">
           <p className={darkMode ? 'text-gray-300' : 'text-gray-600'}>
-            This interactive flowchart helps you understand course prerequisites at Columbia University.
+            This interactive flowchart helps you understand degree requirements and course prerequisites at Columbia University.
           </p>
           <div className="space-y-2">
             <h3 className={`font-semibold ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}>
