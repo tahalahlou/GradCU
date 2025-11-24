@@ -30,7 +30,7 @@ This version builds on prior visualization ideas (@VineethSendilraj) while being
 
 ### Course Node Structure
 Each course is represented as a node with:
-- Course ID (e.g., **COMS W3134**)
+- Course ID (e.g., **COMS W1004**)
 - Course Title
 - Prerequisites
 - Requirement Category (Thread)
@@ -46,7 +46,7 @@ Each course is represented as a node with:
 
 ## Getting Started
 
-1. Visit the deployed site (if hosted)
+1. Visit the deployed site
 2. Select which requirement categories you want to display
 3. Explore course prerequisites and relationships
 4. Use filters to focus on specific areas
