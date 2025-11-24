@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-An interactive visualization tool for exploring course prerequisites for **Columbia University’s Computer Science major** in SEAS. This tool helps students better understand course dependencies and plan their academic journey.
+An interactive visualization tool for exploring course prerequisites for **Columbia University’s Computer Science major** in SEAS. This tool helps students better understand course prerequisites and degree requirements to plan their academic journey.
 
 ## About
 
