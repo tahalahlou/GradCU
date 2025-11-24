@@ -37,7 +37,7 @@ const GuidedTour: React.FC<GuidedTourProps> = ({ darkMode, onComplete, isMobile 
     ] : [
       {
         target: '[data-course-id="CS 1332"]',
-        content: 'Click on CS 1332 to view its enrollment data and details.',
+        content: 'Click on COMS W1004 to view its details.',
         position: 'bottom'
       },
       {
