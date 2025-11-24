@@ -46,7 +46,7 @@ Each course is represented as a node with:
 
 ## Getting Started
 
-1. Visit [href:GradCU ](https://gradcu.me/)
+1. Visit [GradCU](https://gradcu.me/)
 2. Select which requirement categories you want to display
 3. Explore course prerequisites and relationships
 4. Use filters to focus on specific areas
