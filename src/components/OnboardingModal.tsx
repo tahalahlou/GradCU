@@ -28,10 +28,10 @@ const OnboardingModal = ({ darkMode, onClose }: OnboardingModalProps) => {
       <div className={`bg-white dark:bg-gray-800 p-6 rounded-lg shadow-xl max-w-lg mx-4 ${
         darkMode ? 'text-gray-100' : 'text-gray-900'
       }`}>
-        <h2 className="text-2xl font-bold mb-4">Welcome to GradGT - CS</h2>
+        <h2 className="text-2xl font-bold mb-4">Welcome to GradCU - CS</h2>
         <div className="space-y-4">
           <p className={darkMode ? 'text-gray-300' : 'text-gray-600'}>
-            This interactive flowchart helps you understand course prerequisites at Georgia Tech.
+            This interactive flowchart helps you understand course prerequisites at Columbia University.
           </p>
           <div className="space-y-2">
             <h3 className={`font-semibold ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}>
@@ -39,7 +39,6 @@ const OnboardingModal = ({ darkMode, onClose }: OnboardingModalProps) => {
             </h3>
             {isMobile ? (
               <ul className={`list-disc pl-5 space-y-1 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-                <li>Tap on any course box to view enrollment data</li>
                 <li>Drag with one finger to pan around</li>
                 <li>Pinch with two fingers to zoom in/out</li>
                 <li>Use the filter button to show/hide course threads</li>
@@ -47,7 +46,6 @@ const OnboardingModal = ({ darkMode, onClose }: OnboardingModalProps) => {
               </ul>
             ) : (
               <ul className={`list-disc pl-5 space-y-1 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-                <li>Click on any course box to view enrollment data</li>
                 <li>Use the zoom controls or mouse wheel to adjust the view</li>
                 <li>Drag the chart to pan around</li>
                 <li>Follow the arrows to understand prerequisites</li>
