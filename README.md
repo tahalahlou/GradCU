@@ -55,11 +55,6 @@ Each course is represented as a node with:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table align="center">
-  <tr>
-    <td align="center"><a><img src="public/taha.png" width="100px;" alt=""/><br /><sub><b>Taha Lahlou</b></sub></a><br /><a title="Project Lead">🌟</a> <a title="Code">💻</a> <a title="Design">🎨</a> <a title="Ideas, Planning, & Feedback">🤔</a></td>
-  </tr>
-</table>
 <!-- markdownlint-restore -->
 <!-- Done -->
 <!-- prettier-ignore-end -->
